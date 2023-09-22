@@ -1,7 +1,10 @@
 # Shawn Davis Portfolio
 
   ## DESCRIPTION
-  Why are you here? go check out the portfolio!
+  I'm a full stack developer looking to make an impact in Austin
+	I have a bachelors in Math from University of Houston
+	For three years I taught Math in the public school system
+	The skills I have from programming and teaching make me an invaluable asset to any team
 
   ## TABLE OF CONTENTS
 
